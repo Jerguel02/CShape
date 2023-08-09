@@ -1,0 +1,89 @@
+-Trees là dạng cấu trúc dữ liệu không tuyến tính (Ngược với stack và queue).
+-Là 1 bộ của Node
+- Có quan hệ Cha-Con qua các cạnh 
+-Trees có thể trống
+Root:
+-Là mức cao nhất trong Trees
+Siblings: Là Node con của Node trước
+External Node/ Leaf Node: là các node đứng 1 mình, không rẽ nhánh tiếp.
+Internal Node/ Non-Leaf Node : ngược lại External Node/ Leaf Node.
+Edge: cạnh
+Path: Đường dẫn
+Subtree: cây phụ
+Forest: là khi gỡ Root và chỉ còn tập hợp các cây phụ
+Height và Level:
+-Tính từ Root: Height 0, Level 1.
+-Mỗi hàng sẽ tăng thêm 1 bậc.
+Cây nhị phân: Mỗi Node tối đa 2 nhánh, mỗi node sẽ có node trái và node phải
+Degree: số lượng con của node đó
+Số lượng Node trong cây nhị phân 2^(h+1) - 1 với h là chiều cao đếm từ 0
+Proper Binary Tree: Mỗi node chỉ có 0 hoặc là 2 con
+Full Binary Tree: mỗi node có chính xác 2 con 
+Complete Binary Tree: Mỗi mức đều được đánh số từ trái sang phải mà nó không gặp gap (lỗ hỏng, vd trái->phải->"phải"->trái...) nào khác (vd: trái-> phải->trái->phải->trái->...)
+-----
+-Trong cây nhị phân, mỗi node xem như 1 key.
+-Keys ở bên trái có trọng số nhỏ hơn bên còn lại và ngược lại.
+-Keys bên trái và cây bên phải đều gọi là Binary Search Trees.
+-Trong Binary Search Treesthif không có phần tử hoặc node trùng nhau.
+-Khi duyệt sẽ có list của các phần tử được sắp xếp.
+-Cây tìm kiếm nhị phần có thể biểu diễn dạng mảng hoặc là danh sách liên kết.
+----
+function:
+function search(key)
+    troot = root
+    while troot then 
+        if key == troot.element then
+            return True
+        else if key < troot.element then
+            troot = troot.left
+        else if key > troot.element then
+            troot = troot.right
+    return false
+Sử dụng đệ quy:
+function rsearch(troot, key)
+    if root then
+        if key == troot.element then
+            return true 
+        else if key < troot.element then
+            return rsearch(troot.left, key)
+        else if key > troot.element then
+            return rsearch(troot.right, key)
+    else 
+        return false
+BST - Iterative Insert
+function insert(troot, e)
+    temp = null
+    while troot then
+        temp = troot
+        if e == troot.element then
+            return
+        else if e < troot.element then
+            troot = troot.left
+        else if e > troot.element then
+            troot = troot.right
+    n = Node(e)
+    if root 
+        if e < temp.element then
+            temp.left = n
+        else 
+            temp.right = n
+    else 
+        root = n
+
+
+function rinsert(troot, e)
+    if root then
+        if e < troot.element then
+            troot.left = rinsert(troot.left, e)
+        else if e > troot.element then
+            troot.right = rinsert(troot.right, e)
+    else 
+        n = Node(e)
+        troot = n
+    return troot
+
+Các cách duyệt BinSearchTrees
+- Inorder: bên trong cây
+- Preorder: duyệt từ root->left->right
+- Postorder :duyệt left -> right -> root
+- Level: duyệt từ trái sang phải, cao sang thấp

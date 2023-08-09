@@ -1,0 +1,5 @@
+D:\Cpp\C-C++\Trees\InorderBinTrees\obj\Debug\net7.0\InorderBinTrees.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\Trees\InorderBinTrees\obj\Debug\net7.0\InorderBinTrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\Trees\InorderBinTrees\obj\Debug\net7.0\InorderBinTrees.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\Trees\InorderBinTrees\obj\Debug\net7.0\InorderBinTrees.AssemblyInfo.cs
+D:\Cpp\C-C++\Trees\InorderBinTrees\obj\Debug\net7.0\InorderBinTrees.csproj.CoreCompileInputs.cache

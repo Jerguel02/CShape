@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\TamGiacDuoi\bin\Debug\net7.0\TamGiacDuoi.exe
+E:\Cpp\C-C++\TamGiacDuoi\bin\Debug\net7.0\TamGiacDuoi.deps.json
+E:\Cpp\C-C++\TamGiacDuoi\bin\Debug\net7.0\TamGiacDuoi.runtimeconfig.json
+E:\Cpp\C-C++\TamGiacDuoi\bin\Debug\net7.0\TamGiacDuoi.dll
+E:\Cpp\C-C++\TamGiacDuoi\bin\Debug\net7.0\TamGiacDuoi.pdb
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.AssemblyInfo.cs
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.dll
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\refint\TamGiacDuoi.dll
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.pdb
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\TamGiacDuoi.genruntimeconfig.cache
+E:\Cpp\C-C++\TamGiacDuoi\obj\Debug\net7.0\ref\TamGiacDuoi.dll

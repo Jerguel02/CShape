@@ -1,0 +1,15 @@
+E:\Cpp\DanhSachLienKetKepCode\bin\Debug\net7.0\DanhSachLienKetKepCode.exe
+E:\Cpp\DanhSachLienKetKepCode\bin\Debug\net7.0\DanhSachLienKetKepCode.deps.json
+E:\Cpp\DanhSachLienKetKepCode\bin\Debug\net7.0\DanhSachLienKetKepCode.runtimeconfig.json
+E:\Cpp\DanhSachLienKetKepCode\bin\Debug\net7.0\DanhSachLienKetKepCode.dll
+E:\Cpp\DanhSachLienKetKepCode\bin\Debug\net7.0\DanhSachLienKetKepCode.pdb
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.csproj.AssemblyReference.cache
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.AssemblyInfoInputs.cache
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.AssemblyInfo.cs
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.csproj.CoreCompileInputs.cache
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.dll
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\refint\DanhSachLienKetKepCode.dll
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.pdb
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\DanhSachLienKetKepCode.genruntimeconfig.cache
+E:\Cpp\DanhSachLienKetKepCode\obj\Debug\net7.0\ref\DanhSachLienKetKepCode.dll

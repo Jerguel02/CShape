@@ -1,0 +1,10 @@
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Form1.resources
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.Properties.Resources.resources
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csproj.GenerateResource.cache
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe.config
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.exe
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\bin\Debug\CongTruNhanChia.pdb
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.exe
+E:\Cpp\C-C++\WinformProject\CongTruNhanChia\CongTruNhanChia\obj\Debug\CongTruNhanChia.pdb

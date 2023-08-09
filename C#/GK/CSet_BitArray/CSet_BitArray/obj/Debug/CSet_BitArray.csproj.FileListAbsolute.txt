@@ -1,0 +1,16 @@
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.exe.config
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.exe
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.pdb
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.AssemblyReference.cache
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.SuggestedBindingRedirects.cache
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.CoreCompileInputs.cache
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.exe
+E:\Myprogram\C#\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.pdb
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.exe.config
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.exe
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\bin\Debug\CSet_BitArray.pdb
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.SuggestedBindingRedirects.cache
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.exe
+D:\Cpp\C-C++\GK\CSet_BitArray\CSet_BitArray\obj\Debug\CSet_BitArray.pdb

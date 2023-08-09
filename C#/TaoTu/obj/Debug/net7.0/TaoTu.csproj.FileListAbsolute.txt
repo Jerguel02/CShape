@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\TaoTu\bin\Debug\net7.0\TaoTu.exe
+E:\Cpp\C-C++\TaoTu\bin\Debug\net7.0\TaoTu.deps.json
+E:\Cpp\C-C++\TaoTu\bin\Debug\net7.0\TaoTu.runtimeconfig.json
+E:\Cpp\C-C++\TaoTu\bin\Debug\net7.0\TaoTu.dll
+E:\Cpp\C-C++\TaoTu\bin\Debug\net7.0\TaoTu.pdb
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.AssemblyInfo.cs
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.dll
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\refint\TaoTu.dll
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.pdb
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\TaoTu.genruntimeconfig.cache
+E:\Cpp\C-C++\TaoTu\obj\Debug\net7.0\ref\TaoTu.dll

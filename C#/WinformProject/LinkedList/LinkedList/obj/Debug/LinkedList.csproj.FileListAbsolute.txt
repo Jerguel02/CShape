@@ -1,0 +1,11 @@
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.Form1.resources
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.GenerateResource.cache
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+E:\Cpp\C-C++\WinformProject\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache

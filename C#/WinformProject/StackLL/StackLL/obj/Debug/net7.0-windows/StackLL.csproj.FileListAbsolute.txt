@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.Form1.resources
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\bin\Debug\net7.0-windows\StackLL.exe
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\bin\Debug\net7.0-windows\StackLL.deps.json
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\bin\Debug\net7.0-windows\StackLL.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\bin\Debug\net7.0-windows\StackLL.dll
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\bin\Debug\net7.0-windows\StackLL.pdb
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.dll
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\refint\StackLL.dll
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.pdb
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\StackLL.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\StackLL\StackLL\obj\Debug\net7.0-windows\ref\StackLL.dll

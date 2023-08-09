@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.AssemblyInfo.cs
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\Pascal\bin\Debug\net7.0\Pascal.exe
+E:\Cpp\C-C++\Pascal\bin\Debug\net7.0\Pascal.deps.json
+E:\Cpp\C-C++\Pascal\bin\Debug\net7.0\Pascal.runtimeconfig.json
+E:\Cpp\C-C++\Pascal\bin\Debug\net7.0\Pascal.dll
+E:\Cpp\C-C++\Pascal\bin\Debug\net7.0\Pascal.pdb
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.dll
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\refint\Pascal.dll
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.pdb
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\Pascal.genruntimeconfig.cache
+E:\Cpp\C-C++\Pascal\obj\Debug\net7.0\ref\Pascal.dll

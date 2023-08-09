@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\MaDiTuan\bin\Debug\net7.0\MaDiTuan.exe
+E:\Cpp\C-C++\MaDiTuan\bin\Debug\net7.0\MaDiTuan.deps.json
+E:\Cpp\C-C++\MaDiTuan\bin\Debug\net7.0\MaDiTuan.runtimeconfig.json
+E:\Cpp\C-C++\MaDiTuan\bin\Debug\net7.0\MaDiTuan.dll
+E:\Cpp\C-C++\MaDiTuan\bin\Debug\net7.0\MaDiTuan.pdb
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.AssemblyInfo.cs
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.dll
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\refint\MaDiTuan.dll
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.pdb
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\MaDiTuan.genruntimeconfig.cache
+E:\Cpp\C-C++\MaDiTuan\obj\Debug\net7.0\ref\MaDiTuan.dll

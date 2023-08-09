@@ -1,0 +1,60 @@
+D:\Dotnet\bin\Debug\net6.0\Dotnet.exe
+D:\Dotnet\bin\Debug\net6.0\Dotnet.deps.json
+D:\Dotnet\bin\Debug\net6.0\Dotnet.runtimeconfig.json
+D:\Dotnet\bin\Debug\net6.0\Dotnet.dll
+D:\Dotnet\bin\Debug\net6.0\Dotnet.pdb
+D:\Dotnet\obj\Debug\net6.0\Dotnet.csproj.AssemblyReference.cache
+D:\Dotnet\obj\Debug\net6.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\obj\Debug\net6.0\Dotnet.AssemblyInfoInputs.cache
+D:\Dotnet\obj\Debug\net6.0\Dotnet.AssemblyInfo.cs
+D:\Dotnet\obj\Debug\net6.0\Dotnet.csproj.CoreCompileInputs.cache
+D:\Dotnet\obj\Debug\net6.0\Dotnet.dll
+D:\Dotnet\obj\Debug\net6.0\refint\Dotnet.dll
+D:\Dotnet\obj\Debug\net6.0\Dotnet.pdb
+D:\Dotnet\obj\Debug\net6.0\Dotnet.genruntimeconfig.cache
+D:\Dotnet\obj\Debug\net6.0\ref\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.AssemblyInfo.cs
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\refint\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.pdb
+D:\Cpp\C-C++\CuoiKy\output\bin\Debug\net6.0\Dotnet.exe
+D:\Cpp\C-C++\CuoiKy\output\bin\Debug\net6.0\Dotnet.deps.json
+D:\Cpp\C-C++\CuoiKy\output\bin\Debug\net6.0\Dotnet.runtimeconfig.json
+D:\Cpp\C-C++\CuoiKy\output\bin\Debug\net6.0\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\output\bin\Debug\net6.0\Dotnet.pdb
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\Dotnet.genruntimeconfig.cache
+D:\Cpp\C-C++\CuoiKy\output\obj\Debug\net6.0\ref\Dotnet.dll
+C:\Users\OS\Downloads\output\output\bin\Debug\net6.0\Dotnet.exe
+C:\Users\OS\Downloads\output\output\bin\Debug\net6.0\Dotnet.deps.json
+C:\Users\OS\Downloads\output\output\bin\Debug\net6.0\Dotnet.runtimeconfig.json
+C:\Users\OS\Downloads\output\output\bin\Debug\net6.0\Dotnet.dll
+C:\Users\OS\Downloads\output\output\bin\Debug\net6.0\Dotnet.pdb
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.csproj.AssemblyReference.cache
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.AssemblyInfo.cs
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.dll
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\refint\Dotnet.dll
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.pdb
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\Dotnet.genruntimeconfig.cache
+C:\Users\OS\Downloads\output\output\obj\Debug\net6.0\ref\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\New folder\output\bin\Debug\net6.0\Dotnet.exe
+D:\Cpp\C-C++\CuoiKy\New folder\output\bin\Debug\net6.0\Dotnet.deps.json
+D:\Cpp\C-C++\CuoiKy\New folder\output\bin\Debug\net6.0\Dotnet.runtimeconfig.json
+D:\Cpp\C-C++\CuoiKy\New folder\output\bin\Debug\net6.0\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\New folder\output\bin\Debug\net6.0\Dotnet.pdb
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.AssemblyInfo.cs
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\refint\Dotnet.dll
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.pdb
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\Dotnet.genruntimeconfig.cache
+D:\Cpp\C-C++\CuoiKy\New folder\output\obj\Debug\net6.0\ref\Dotnet.dll

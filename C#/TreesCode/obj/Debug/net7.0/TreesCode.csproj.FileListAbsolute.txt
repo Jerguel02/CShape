@@ -1,0 +1,15 @@
+D:\Cpp\C-C++\TreesCode\bin\Debug\net7.0\TreesCode.exe
+D:\Cpp\C-C++\TreesCode\bin\Debug\net7.0\TreesCode.deps.json
+D:\Cpp\C-C++\TreesCode\bin\Debug\net7.0\TreesCode.runtimeconfig.json
+D:\Cpp\C-C++\TreesCode\bin\Debug\net7.0\TreesCode.dll
+D:\Cpp\C-C++\TreesCode\bin\Debug\net7.0\TreesCode.pdb
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.AssemblyInfo.cs
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.dll
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\refint\TreesCode.dll
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.pdb
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\TreesCode.genruntimeconfig.cache
+D:\Cpp\C-C++\TreesCode\obj\Debug\net7.0\ref\TreesCode.dll

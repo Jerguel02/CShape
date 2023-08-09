@@ -1,0 +1,10 @@
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\bin\Debug\Form_GPTB2.exe.config
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\bin\Debug\Form_GPTB2.exe
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\bin\Debug\Form_GPTB2.pdb
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.Form1.resources
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.Properties.Resources.resources
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.csproj.GenerateResource.cache
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.exe
+E:\Cpp\C-C++\WinformProject\Form_GPTB2\Form_GPTB2\obj\Debug\Form_GPTB2.pdb

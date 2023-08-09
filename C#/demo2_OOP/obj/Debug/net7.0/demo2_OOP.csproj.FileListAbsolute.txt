@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.AssemblyInfo.cs
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\demo2_OOP\bin\Debug\net7.0\demo2_OOP.exe
+E:\Cpp\C-C++\demo2_OOP\bin\Debug\net7.0\demo2_OOP.deps.json
+E:\Cpp\C-C++\demo2_OOP\bin\Debug\net7.0\demo2_OOP.runtimeconfig.json
+E:\Cpp\C-C++\demo2_OOP\bin\Debug\net7.0\demo2_OOP.dll
+E:\Cpp\C-C++\demo2_OOP\bin\Debug\net7.0\demo2_OOP.pdb
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.dll
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\refint\demo2_OOP.dll
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.pdb
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\demo2_OOP.genruntimeconfig.cache
+E:\Cpp\C-C++\demo2_OOP\obj\Debug\net7.0\ref\demo2_OOP.dll

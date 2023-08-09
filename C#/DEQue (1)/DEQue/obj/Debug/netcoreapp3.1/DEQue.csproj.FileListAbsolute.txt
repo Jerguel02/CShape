@@ -1,0 +1,28 @@
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.exe
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.deps.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.runtimeconfig.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.runtimeconfig.dev.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.dll
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\bin\Debug\netcoreapp3.1\DEQue.pdb
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.csproj.AssemblyReference.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.AssemblyInfoInputs.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.AssemblyInfo.cs
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.csproj.CoreCompileInputs.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.dll
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.pdb
+D:\Learning\HK6\DataStructure\Codes\Demo\Week9\DEQue\DEQue\obj\Debug\netcoreapp3.1\DEQue.genruntimeconfig.cache
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.exe
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.deps.json
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.runtimeconfig.json
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.runtimeconfig.dev.json
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.dll
+D:\Cpp\C-C++\DEQue (1)\DEQue\bin\Debug\netcoreapp3.1\DEQue.pdb
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.AssemblyInfo.cs
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.dll
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.pdb
+D:\Cpp\C-C++\DEQue (1)\DEQue\obj\Debug\netcoreapp3.1\DEQue.genruntimeconfig.cache

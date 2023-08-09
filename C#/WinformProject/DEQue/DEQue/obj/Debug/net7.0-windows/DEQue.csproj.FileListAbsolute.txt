@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\bin\Debug\net7.0-windows\DEQue.exe
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\bin\Debug\net7.0-windows\DEQue.deps.json
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\bin\Debug\net7.0-windows\DEQue.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\bin\Debug\net7.0-windows\DEQue.dll
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\bin\Debug\net7.0-windows\DEQue.pdb
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.Form1.resources
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.dll
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\refint\DEQue.dll
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.pdb
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\DEQue.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\DEQue\DEQue\obj\Debug\net7.0-windows\ref\DEQue.dll

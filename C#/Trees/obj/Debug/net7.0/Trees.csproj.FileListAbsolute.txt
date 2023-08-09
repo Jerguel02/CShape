@@ -1,0 +1,5 @@
+D:\Cpp\C-C++\Trees\obj\Debug\net7.0\Trees.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\Trees\obj\Debug\net7.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\Trees\obj\Debug\net7.0\Trees.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\Trees\obj\Debug\net7.0\Trees.AssemblyInfo.cs
+D:\Cpp\C-C++\Trees\obj\Debug\net7.0\Trees.csproj.CoreCompileInputs.cache

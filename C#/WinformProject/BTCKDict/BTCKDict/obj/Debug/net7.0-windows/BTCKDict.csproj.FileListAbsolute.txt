@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\bin\Debug\net7.0-windows\BTCKDict.exe
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\bin\Debug\net7.0-windows\BTCKDict.deps.json
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\bin\Debug\net7.0-windows\BTCKDict.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\bin\Debug\net7.0-windows\BTCKDict.dll
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\bin\Debug\net7.0-windows\BTCKDict.pdb
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.Form1.resources
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.dll
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\refint\BTCKDict.dll
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.pdb
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\BTCKDict.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\BTCKDict\BTCKDict\obj\Debug\net7.0-windows\ref\BTCKDict.dll

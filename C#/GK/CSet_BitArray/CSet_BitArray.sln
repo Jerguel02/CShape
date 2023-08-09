@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSet_BitArray", "CSet_BitArray\CSet_BitArray.csproj", "{C9DB4483-5DD2-4D2F-9556-C85930396EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DB4483-5DD2-4D2F-9556-C85930396EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DB4483-5DD2-4D2F-9556-C85930396EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DB4483-5DD2-4D2F-9556-C85930396EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DB4483-5DD2-4D2F-9556-C85930396EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAFD1191-9F43-4522-83AD-2000D79D4661}
+	EndGlobalSection
+EndGlobal

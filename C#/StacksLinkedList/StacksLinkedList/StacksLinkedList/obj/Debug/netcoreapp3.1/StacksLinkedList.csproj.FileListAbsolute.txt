@@ -1,0 +1,14 @@
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.exe
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.deps.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.runtimeconfig.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.runtimeconfig.dev.json
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.dll
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\bin\Debug\netcoreapp3.1\StacksLinkedList.pdb
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.csproj.AssemblyReference.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.AssemblyInfoInputs.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.AssemblyInfo.cs
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.csproj.CoreCompileInputs.cache
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.dll
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.pdb
+D:\Learning\HK6\DataStructure\Codes\Demo\Week8\StacksLinkedList\StacksLinkedList\StacksLinkedList\obj\Debug\netcoreapp3.1\StacksLinkedList.genruntimeconfig.cache

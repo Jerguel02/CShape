@@ -1,0 +1,5 @@
+function inorder (troot)
+    if root then
+        inorder(troot.left)
+        print(troot.element)
+        inorder(troot.right)

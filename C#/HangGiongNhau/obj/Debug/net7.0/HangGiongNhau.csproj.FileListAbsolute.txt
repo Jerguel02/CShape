@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\HangGiongNhau\bin\Debug\net7.0\HangGiongNhau.exe
+E:\Cpp\C-C++\HangGiongNhau\bin\Debug\net7.0\HangGiongNhau.deps.json
+E:\Cpp\C-C++\HangGiongNhau\bin\Debug\net7.0\HangGiongNhau.runtimeconfig.json
+E:\Cpp\C-C++\HangGiongNhau\bin\Debug\net7.0\HangGiongNhau.dll
+E:\Cpp\C-C++\HangGiongNhau\bin\Debug\net7.0\HangGiongNhau.pdb
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.AssemblyInfo.cs
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.dll
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\refint\HangGiongNhau.dll
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.pdb
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\HangGiongNhau.genruntimeconfig.cache
+E:\Cpp\C-C++\HangGiongNhau\obj\Debug\net7.0\ref\HangGiongNhau.dll

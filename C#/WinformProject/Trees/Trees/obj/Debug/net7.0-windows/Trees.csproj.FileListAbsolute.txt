@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\Trees\Trees\bin\Debug\net7.0-windows\Trees.exe
+D:\Cpp\C-C++\WinformProject\Trees\Trees\bin\Debug\net7.0-windows\Trees.deps.json
+D:\Cpp\C-C++\WinformProject\Trees\Trees\bin\Debug\net7.0-windows\Trees.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\Trees\Trees\bin\Debug\net7.0-windows\Trees.dll
+D:\Cpp\C-C++\WinformProject\Trees\Trees\bin\Debug\net7.0-windows\Trees.pdb
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.Form1.resources
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.dll
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\refint\Trees.dll
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.pdb
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\Trees.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\Trees\Trees\obj\Debug\net7.0-windows\ref\Trees.dll

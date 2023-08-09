@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.AssemblyInfo.cs
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\Neper\bin\Debug\net7.0\Neper.exe
+E:\Cpp\C-C++\Neper\bin\Debug\net7.0\Neper.deps.json
+E:\Cpp\C-C++\Neper\bin\Debug\net7.0\Neper.runtimeconfig.json
+E:\Cpp\C-C++\Neper\bin\Debug\net7.0\Neper.dll
+E:\Cpp\C-C++\Neper\bin\Debug\net7.0\Neper.pdb
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.dll
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\refint\Neper.dll
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.pdb
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\Neper.genruntimeconfig.cache
+E:\Cpp\C-C++\Neper\obj\Debug\net7.0\ref\Neper.dll

@@ -1,0 +1,15 @@
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.AssemblyInfo.cs
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\Graph\bin\Debug\net7.0\Graph.exe
+D:\Cpp\C-C++\Graph\bin\Debug\net7.0\Graph.deps.json
+D:\Cpp\C-C++\Graph\bin\Debug\net7.0\Graph.runtimeconfig.json
+D:\Cpp\C-C++\Graph\bin\Debug\net7.0\Graph.dll
+D:\Cpp\C-C++\Graph\bin\Debug\net7.0\Graph.pdb
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.dll
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\refint\Graph.dll
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.pdb
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\Graph.genruntimeconfig.cache
+D:\Cpp\C-C++\Graph\obj\Debug\net7.0\ref\Graph.dll

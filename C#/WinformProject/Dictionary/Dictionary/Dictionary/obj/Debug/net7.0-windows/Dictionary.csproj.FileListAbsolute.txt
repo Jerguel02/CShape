@@ -1,0 +1,7 @@
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.Form1.resources
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\Dictionary\Dictionary\Dictionary\obj\Debug\net7.0-windows\Dictionary.csproj.CoreCompileInputs.cache

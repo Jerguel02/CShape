@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.AssemblyInfo.cs
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\Timmang\bin\Debug\net7.0\Timmang.exe
+E:\Cpp\C-C++\Timmang\bin\Debug\net7.0\Timmang.deps.json
+E:\Cpp\C-C++\Timmang\bin\Debug\net7.0\Timmang.runtimeconfig.json
+E:\Cpp\C-C++\Timmang\bin\Debug\net7.0\Timmang.dll
+E:\Cpp\C-C++\Timmang\bin\Debug\net7.0\Timmang.pdb
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.dll
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\refint\Timmang.dll
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.pdb
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\Timmang.genruntimeconfig.cache
+E:\Cpp\C-C++\Timmang\obj\Debug\net7.0\ref\Timmang.dll

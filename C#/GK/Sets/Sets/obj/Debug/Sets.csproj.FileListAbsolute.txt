@@ -1,0 +1,16 @@
+E:\Myprogram\C#\Sets\Sets\obj\Debug\Sets.csproj.AssemblyReference.cache
+E:\Myprogram\C#\Sets\Sets\obj\Debug\Sets.csproj.SuggestedBindingRedirects.cache
+E:\Myprogram\C#\Sets\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+E:\Myprogram\C#\Sets\Sets\bin\Debug\Sets.exe.config
+E:\Myprogram\C#\Sets\Sets\bin\Debug\Sets.exe
+E:\Myprogram\C#\Sets\Sets\bin\Debug\Sets.pdb
+E:\Myprogram\C#\Sets\Sets\obj\Debug\Sets.exe
+E:\Myprogram\C#\Sets\Sets\obj\Debug\Sets.pdb
+D:\Cpp\C-C++\GK\Sets\Sets\bin\Debug\Sets.exe.config
+D:\Cpp\C-C++\GK\Sets\Sets\bin\Debug\Sets.exe
+D:\Cpp\C-C++\GK\Sets\Sets\bin\Debug\Sets.pdb
+D:\Cpp\C-C++\GK\Sets\Sets\obj\Debug\Sets.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\GK\Sets\Sets\obj\Debug\Sets.csproj.SuggestedBindingRedirects.cache
+D:\Cpp\C-C++\GK\Sets\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\GK\Sets\Sets\obj\Debug\Sets.exe
+D:\Cpp\C-C++\GK\Sets\Sets\obj\Debug\Sets.pdb

@@ -1,0 +1,10 @@
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe.config
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.pdb
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Form1.resources
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Properties.Resources.resources
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.GenerateResource.cache
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.exe
+E:\Cpp\C-C++\WinformProject\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.pdb

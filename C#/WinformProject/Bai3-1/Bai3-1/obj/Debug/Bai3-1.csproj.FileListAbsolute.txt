@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Interop.WMPLib.dll
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\AxInterop.WMPLib.dll
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.csproj.ResolveComReference.cache
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3_1.Form1.resources
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3_1.Properties.Resources.resources
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.csproj.GenerateResource.cache
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\bin\Debug\Bai3-1.exe.config
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\bin\Debug\Bai3-1.exe
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\bin\Debug\Bai3-1.pdb
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\bin\Debug\Interop.WMPLib.dll
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\bin\Debug\AxInterop.WMPLib.dll
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.exe
+E:\Cpp\C-C++\WinformProject\Bai3-1\Bai3-1\obj\Debug\Bai3-1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_GPTB2", "Form_GPTB2\Form_GPTB2.csproj", "{554C1152-7162-4A5B-8AAD-655002FDAF7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554C1152-7162-4A5B-8AAD-655002FDAF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554C1152-7162-4A5B-8AAD-655002FDAF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554C1152-7162-4A5B-8AAD-655002FDAF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554C1152-7162-4A5B-8AAD-655002FDAF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B704EE01-BC95-4E04-B18D-978785A993C1}
+	EndGlobalSection
+EndGlobal

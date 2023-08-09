@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\thamsotuychon\bin\Debug\net7.0\thamsotuychon.exe
+E:\Cpp\C-C++\thamsotuychon\bin\Debug\net7.0\thamsotuychon.deps.json
+E:\Cpp\C-C++\thamsotuychon\bin\Debug\net7.0\thamsotuychon.runtimeconfig.json
+E:\Cpp\C-C++\thamsotuychon\bin\Debug\net7.0\thamsotuychon.dll
+E:\Cpp\C-C++\thamsotuychon\bin\Debug\net7.0\thamsotuychon.pdb
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.AssemblyInfo.cs
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.dll
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\refint\thamsotuychon.dll
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.pdb
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\thamsotuychon.genruntimeconfig.cache
+E:\Cpp\C-C++\thamsotuychon\obj\Debug\net7.0\ref\thamsotuychon.dll

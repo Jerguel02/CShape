@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\Stack\Stack\bin\Debug\net7.0-windows\Stack.exe
+D:\Cpp\C-C++\WinformProject\Stack\Stack\bin\Debug\net7.0-windows\Stack.deps.json
+D:\Cpp\C-C++\WinformProject\Stack\Stack\bin\Debug\net7.0-windows\Stack.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\Stack\Stack\bin\Debug\net7.0-windows\Stack.dll
+D:\Cpp\C-C++\WinformProject\Stack\Stack\bin\Debug\net7.0-windows\Stack.pdb
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.Form1.resources
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.dll
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\refint\Stack.dll
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.pdb
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\Stack.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\Stack\Stack\obj\Debug\net7.0-windows\ref\Stack.dll

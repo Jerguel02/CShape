@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.AssemblyInfo.cs
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\TamGiacTren\bin\Debug\net7.0\TamGiacTren.exe
+E:\Cpp\C-C++\TamGiacTren\bin\Debug\net7.0\TamGiacTren.deps.json
+E:\Cpp\C-C++\TamGiacTren\bin\Debug\net7.0\TamGiacTren.runtimeconfig.json
+E:\Cpp\C-C++\TamGiacTren\bin\Debug\net7.0\TamGiacTren.dll
+E:\Cpp\C-C++\TamGiacTren\bin\Debug\net7.0\TamGiacTren.pdb
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.dll
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\refint\TamGiacTren.dll
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.pdb
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\TamGiacTren.genruntimeconfig.cache
+E:\Cpp\C-C++\TamGiacTren\obj\Debug\net7.0\ref\TamGiacTren.dll

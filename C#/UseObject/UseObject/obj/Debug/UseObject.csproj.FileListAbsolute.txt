@@ -1,0 +1,7 @@
+E:\Cpp\C-C++\UseObject\UseObject\obj\Debug\UseObject.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\UseObject\UseObject\obj\Debug\UseObject.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\UseObject\UseObject\bin\Debug\UseObject.exe.config
+E:\Cpp\C-C++\UseObject\UseObject\bin\Debug\UseObject.exe
+E:\Cpp\C-C++\UseObject\UseObject\bin\Debug\UseObject.pdb
+E:\Cpp\C-C++\UseObject\UseObject\obj\Debug\UseObject.exe
+E:\Cpp\C-C++\UseObject\UseObject\obj\Debug\UseObject.pdb

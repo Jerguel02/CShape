@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.AssemblyInfo.cs
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\MangDoiXung\bin\Debug\net7.0\MangDoiXung.exe
+E:\Cpp\C-C++\MangDoiXung\bin\Debug\net7.0\MangDoiXung.deps.json
+E:\Cpp\C-C++\MangDoiXung\bin\Debug\net7.0\MangDoiXung.runtimeconfig.json
+E:\Cpp\C-C++\MangDoiXung\bin\Debug\net7.0\MangDoiXung.dll
+E:\Cpp\C-C++\MangDoiXung\bin\Debug\net7.0\MangDoiXung.pdb
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.dll
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\refint\MangDoiXung.dll
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.pdb
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\MangDoiXung.genruntimeconfig.cache
+E:\Cpp\C-C++\MangDoiXung\obj\Debug\net7.0\ref\MangDoiXung.dll

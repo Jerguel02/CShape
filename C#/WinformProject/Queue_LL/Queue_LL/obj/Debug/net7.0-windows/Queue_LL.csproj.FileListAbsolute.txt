@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\bin\Debug\net7.0-windows\Queue_LL.exe
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\bin\Debug\net7.0-windows\Queue_LL.deps.json
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\bin\Debug\net7.0-windows\Queue_LL.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\bin\Debug\net7.0-windows\Queue_LL.dll
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\bin\Debug\net7.0-windows\Queue_LL.pdb
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.Form1.resources
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.dll
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\refint\Queue_LL.dll
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.pdb
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\Queue_LL.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\Queue_LL\Queue_LL\obj\Debug\net7.0-windows\ref\Queue_LL.dll

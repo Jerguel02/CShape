@@ -1,0 +1,15 @@
+E:\Cpp\C-C++\oop\1.2\bin\Debug\net7.0\1.2.exe
+E:\Cpp\C-C++\oop\1.2\bin\Debug\net7.0\1.2.deps.json
+E:\Cpp\C-C++\oop\1.2\bin\Debug\net7.0\1.2.runtimeconfig.json
+E:\Cpp\C-C++\oop\1.2\bin\Debug\net7.0\1.2.dll
+E:\Cpp\C-C++\oop\1.2\bin\Debug\net7.0\1.2.pdb
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.AssemblyInfo.cs
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.csproj.CoreCompileInputs.cache
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.dll
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\refint\1.2.dll
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.pdb
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\1.2.genruntimeconfig.cache
+E:\Cpp\C-C++\oop\1.2\obj\Debug\net7.0\ref\1.2.dll

@@ -1,0 +1,5 @@
+E:\Cpp\C-C++\demo_OOP\obj\Debug\net7.0\demo_OOP.csproj.AssemblyReference.cache
+E:\Cpp\C-C++\demo_OOP\obj\Debug\net7.0\demo_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpp\C-C++\demo_OOP\obj\Debug\net7.0\demo_OOP.AssemblyInfoInputs.cache
+E:\Cpp\C-C++\demo_OOP\obj\Debug\net7.0\demo_OOP.AssemblyInfo.cs
+E:\Cpp\C-C++\demo_OOP\obj\Debug\net7.0\demo_OOP.csproj.CoreCompileInputs.cache

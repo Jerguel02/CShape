@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.Dictionary.resources
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\bin\Debug\net7.0-windows\BTCuoiKy.exe
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\bin\Debug\net7.0-windows\BTCuoiKy.deps.json
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\bin\Debug\net7.0-windows\BTCuoiKy.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\bin\Debug\net7.0-windows\BTCuoiKy.dll
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\bin\Debug\net7.0-windows\BTCuoiKy.pdb
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.dll
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\refint\BTCuoiKy.dll
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.pdb
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\BTCuoiKy.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\BTCuoiKy\BTCuoiKy\obj\Debug\net7.0-windows\ref\BTCuoiKy.dll

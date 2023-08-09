@@ -1,0 +1,17 @@
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.csproj.AssemblyReference.cache
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\Dict.Form1.resources
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.csproj.GenerateResource.cache
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.AssemblyInfoInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.AssemblyInfo.cs
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.csproj.CoreCompileInputs.cache
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\bin\Debug\net7.0-windows\BTCK.exe
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\bin\Debug\net7.0-windows\BTCK.deps.json
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\bin\Debug\net7.0-windows\BTCK.runtimeconfig.json
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\bin\Debug\net7.0-windows\BTCK.dll
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\bin\Debug\net7.0-windows\BTCK.pdb
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.dll
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\refint\BTCK.dll
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.pdb
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\BTCK.genruntimeconfig.cache
+D:\Cpp\C-C++\WinformProject\BTCK\BTCK\obj\Debug\net7.0-windows\ref\BTCK.dll
